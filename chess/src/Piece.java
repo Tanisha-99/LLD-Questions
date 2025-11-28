@@ -1,3 +1,6 @@
+import entities.PieceType;
+import strategy.movement.MovementStrategy;
+
 public abstract class Piece {
     protected boolean isWhite;
     protected boolean isKilled;

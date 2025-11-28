@@ -1,3 +1,6 @@
+import entities.PieceType;
+import strategy.movement.MovementStrategy;
+
 public class Knight extends Piece{
 
     public Knight(boolean isWhite, MovementStrategy movementStrategy) {

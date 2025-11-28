@@ -1,3 +1,5 @@
+import strategy.player.PlayerStrategy;
+
 public class Player {
     private String name;
     private Boolean isWhite;

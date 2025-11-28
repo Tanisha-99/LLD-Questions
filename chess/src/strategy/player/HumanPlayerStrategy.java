@@ -1,3 +1,5 @@
+package strategy.player;
+
 import java.util.Scanner;
 
 public class HumanPlayerStrategy implements PlayerStrategy {

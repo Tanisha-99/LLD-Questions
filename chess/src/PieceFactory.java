@@ -1,3 +1,5 @@
+import strategy.movement.*;
+
 public abstract class PieceFactory {
 
     public static Piece createPiece(String pieceType, boolean isWhite) {
